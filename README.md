@@ -3,7 +3,7 @@ Atliq Mart is a leading retail giant with 50 stores across 10 cities in Southern
 I've analyzed the performance of Diwali 2023 and Sankranti 2024 campaigns.
 Problem Statement:
 The Challenge was to understand the performance of our promotions, identify successful strategies, and pinpoint Areas for improvement to enhance future promotional campaigns and store expansion.
-Tool used:
+𝐓𝐎𝐎𝐋𝐒 𝐎𝐅 𝐓𝐇𝐄 𝐓𝐑𝐀𝐃𝐄:
 MYSQL for seamless ad-hoc reports.
 Power BI for in-depth data analysis & captivating visualizations.
 Microsoft PowerPoint for crafting presentations brimming with actionable insights.
